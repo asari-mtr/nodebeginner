@@ -1,4 +1,5 @@
 ``` sh
+npm install formidable
 node index.js
 ```
 
